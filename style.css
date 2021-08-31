@@ -1,3 +1,6 @@
+*{
+    scroll-behavior: smooth;
+}
 .text_clr{
     display: flex;
     align-items: center;
